@@ -1,5 +1,5 @@
 # Hi, I'm Christian 👋
-I am a final year CS student at Goethe Univeristy in Frankfurt, Germany. I also hold a Master's degree in Quantitative Economics from Goethe Univeristy.
+I am a final year CS student at Goethe University in Frankfurt, Germany. I also hold a Master's degree in Quantitative Economics from Goethe University.
 
 ## Current Projects
 
