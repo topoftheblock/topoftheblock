@@ -3,14 +3,13 @@ I am a final year CS student at Goethe University in Frankfurt, Germany. I also 
 
 ## Current Projects
 
-*  [RAG Application in Java](https://github.com/topoftheblock/ChatBundestag) 
 *  [LLM Fine-Tuning with LoRa for Financial Sentiment](https://github.com/topoftheblock/Fine-Tuning-LLM-For-Financial-Sentiment) 
 *  [Big Data Application for German Weather Data](https://github.com/topoftheblock/AeroWeather-Germany) 
 
 
 ## Finished Projects
 
-
+*  [RAG Application in Java](https://github.com/topoftheblock/ChatBundestag) 
 *  [AI Assistant for Ikea Instructions using Agents](https://github.com/KenanKhauto/IKEA_assembly_guide_assistent) 
 *  [Multimodal Full-Stack Application](https://github.com/topoftheblock/Multimodal_Parliament_Explorer) 
 *  [ETL Pipeline with NLP and Visualization](https://github.com/topoftheblock/ETL-Pipeline-with-NLP-Analysis) 
