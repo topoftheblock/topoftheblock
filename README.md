@@ -1,6 +1,6 @@
-Hi, I'm Christian  👋
+## Hi, I'm Christian  👋 
 I am a developer with a multidisciplinary background, currently pursuing a Bachelor of Science in Computer Science at Goethe University in Frankfurt, Germany. Previously, I earned a Master of Science in Quantitative Economics and a Bachelor of Science in Economics from the same institution. My work bridges the gap between advanced data analysis, machine learning, and software engineering.  
-+3
+
 
 ## Tech Stack & Tools
 
