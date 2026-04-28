@@ -1,6 +1,27 @@
-# Hi, I'm Christian 👋
-I am a final year CS student at Goethe University in Frankfurt, Germany. I also hold a Master's degree in Quantitative Economics from Goethe University.
+Hi, I'm Christian  👋
+I am a developer with a multidisciplinary background, currently pursuing a Bachelor of Science in Computer Science at Goethe University in Frankfurt, Germany. Previously, I earned a Master of Science in Quantitative Economics and a Bachelor of Science in Economics from the same institution. My work bridges the gap between advanced data analysis, machine learning, and software engineering.  
++3
 
+Tech Stack & Tools
+
+Languages: Python, Java, SQL, Haskell, R, and C++.  
+
+
+Databases: Neo4j, MongoDB, Vector Databases, and SQL.  
+
+Tools & Frameworks: Docker, Azure, Git, Apache Spark, Kafka, Airflow, PyTorch, LangChain, and DevOps practices.  
+
+
+Professional Experience
+
+AI-Engineer at KfW: Architected and optimized a Retrieval-Augmented Generation (RAG) pipeline. Engineered advanced document preprocessing workflows for LLM consumption.  
+
+
+Researcher & Research Assistant at Goethe University: Published a proprietary R package to streamline econometric techniques. Built a high-performance C++ non-linear optimization solver. Developed predictive models and statistical methodologies.  
+
+Data Analyst at BMW Group: Owned the full machine learning lifecycle to evaluate vehicle price depreciation. Generated key data-driven business insights.  
+
+Inhouse Consulting at Schaeffler Group: Designed game-theoretic models for auction-based procurement. Evaluated supplier risk using probit and logit regressions.
 ## Current Projects
 
 *  [LLM Fine-Tuning with LoRa for Financial Sentiment](https://github.com/topoftheblock/Fine-Tuning-LLM-For-Financial-Sentiment) - An end-to-end real-time data pipeline for ingesting financial social media text, analyzing its sentiment using a fine-tuned Large Language Model (LLM) powered by Apple's MLX, and visualizing the results.
