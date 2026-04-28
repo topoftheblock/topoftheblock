@@ -2,7 +2,7 @@ Hi, I'm Christian  👋
 I am a developer with a multidisciplinary background, currently pursuing a Bachelor of Science in Computer Science at Goethe University in Frankfurt, Germany. Previously, I earned a Master of Science in Quantitative Economics and a Bachelor of Science in Economics from the same institution. My work bridges the gap between advanced data analysis, machine learning, and software engineering.  
 +3
 
-Tech Stack & Tools
+##Tech Stack & Tools
 
 Languages: Python, Java, SQL, Haskell, R, and C++.  
 
@@ -12,7 +12,7 @@ Databases: Neo4j, MongoDB, Vector Databases, and SQL.
 Tools & Frameworks: Docker, Azure, Git, Apache Spark, Kafka, Airflow, PyTorch, LangChain, and DevOps practices.  
 
 
-Professional Experience
+##Professional Experience
 
 AI-Engineer at KfW: Architected and optimized a Retrieval-Augmented Generation (RAG) pipeline. Engineered advanced document preprocessing workflows for LLM consumption.  
 
