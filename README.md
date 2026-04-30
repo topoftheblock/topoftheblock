@@ -28,7 +28,7 @@ Inhouse Consulting at Schaeffler Group: Designed game-theoretic models for aucti
 *  [Big Data Application for German Weather Data](https://github.com/topoftheblock/AeroWeather-Germany) - This project analyzes how localized weather events cause cascading delays across the German domestic aviation network. By joining DWD (Deutscher Wetterdienst) weather records with Eurocontrol flight data using spatial and temporal SQL joins, this pipeline tracks whether a plane delayed by a snowstorm in Munich (MUC) carries that delay into its next
 
 ## Upcoming Projects
-*  [Agentic Model Tuning with Autoresearch](https://github.com/topoftheblock/autoresearch)
+*  [Agentic Model Tuning with Autoresearch](https://github.com/topoftheblock/autoresearch) - A comparative study evaluating autonomous LLM research loops against Bayesian optimization, inspired by Andrej Karpathy's 2026 AutoResearch paradigm.
 ## Finished Projects
 
 *  [RAG Application in Java](https://github.com/topoftheblock/ChatBundestag) - A Java application for parsing XML protocols from the German Bundestag, loading them into a Neo4j graph database, and enabling natural-language querying via an AI-powered RAG pipeline.
