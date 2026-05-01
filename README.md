@@ -32,6 +32,10 @@ Inhouse Consulting at Schaeffler Group: Designed game-theoretic models for aucti
 
 ## Upcoming Projects
 *  [Agentic Model Tuning with Autoresearch](https://github.com/topoftheblock/autoresearch) - A comparative study evaluating autonomous LLM research loops against Bayesian optimization, inspired by Andrej Karpathy's 2026 AutoResearch paradigm.
+
+*  [Backtesting Strategy with Autoresearch](https://github.com/topoftheblock/autoresearch-backtesting) -
+
+*  [Research Project at the Intersection of AI and Neuroscience](https://github.com/topoftheblock/ai-for-neuroscience) -
 ## Finished Projects
 
 *  [RAG Application in Java](https://github.com/topoftheblock/ChatBundestag) - A Java application for parsing XML protocols from the German Bundestag, loading them into a Neo4j graph database, and enabling natural-language querying via an AI-powered RAG pipeline.
