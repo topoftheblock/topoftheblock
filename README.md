@@ -22,21 +22,17 @@ Researcher & Research Assistant at Goethe University: Published a proprietary R 
 Data Analyst at BMW Group: Owned the full machine learning lifecycle to evaluate vehicle price depreciation. Generated key data-driven business insights.  
 
 Inhouse Consulting at Schaeffler Group: Designed game-theoretic models for auction-based procurement. Evaluated supplier risk using probit and logit regressions.
-## Current Projects
 
-*  [LLM Fine-Tuning with LoRa for Financial Sentiment](https://github.com/topoftheblock/Fine-Tuning-LLM-For-Financial-Sentiment) - An end-to-end real-time data pipeline for ingesting financial social media text, analyzing its sentiment using a fine-tuned Large Language Model powered by Apple's MLX, and visualizing the results.
-
-## Dormant Projects
-
-*  [Big Data Application for German Weather Data](https://github.com/topoftheblock/AeroWeather-Germany) - This project analyzes how localized weather events cause cascading delays across the German domestic aviation network. By joining DWD (Deutscher Wetterdienst) weather records with Eurocontrol flight data using spatial and temporal SQL joins, this pipeline tracks whether a plane delayed by a snowstorm in Munich (MUC) carries that delay into its next
-
-## Upcoming Projects
+## Smaller AI Projects
 *  [Agentic Model Tuning with Autoresearch](https://github.com/topoftheblock/autoresearch) - A comparative study evaluating autonomous LLM research loops against Bayesian optimization, inspired by Andrej Karpathy's 2026 AutoResearch paradigm.
 
 *  [Backtesting Strategy with Autoresearch](https://github.com/topoftheblock/autoresearch-backtesting) -
 
 *  [Research Project at the Intersection of AI and Neuroscience](https://github.com/topoftheblock/ai-for-neuroscience) -
-## Finished Projects
+
+*  [LLM Fine-Tuning with LoRa for Financial Sentiment](https://github.com/topoftheblock/Fine-Tuning-LLM-For-Financial-Sentiment) - An end-to-end real-time data pipeline for ingesting financial social media text, analyzing its sentiment using a fine-tuned Large Language Model powered by Apple's MLX, and visualizing the results.
+  
+## Finished Portfolio Projects
 
 *  [RAG Application in Java](https://github.com/topoftheblock/ChatBundestag) - A Java application for parsing XML protocols from the German Bundestag, loading them into a Neo4j graph database, and enabling natural-language querying via an AI-powered RAG pipeline.
 *  [AI Assistant for Ikea Instructions using Agents](https://github.com/KenanKhauto/IKEA_assembly_guide_assistent) - A smart assistant that helps users interpret IKEA assembly manuals — making complex instructions easier to understand and act upon. Designed as a full-stack application with AI-driven components to analyze assembly instructions from PDFs and images.
@@ -44,4 +40,4 @@ Inhouse Consulting at Schaeffler Group: Designed game-theoretic models for aucti
 *  [ETL Pipeline with NLP and Visualization](https://github.com/topoftheblock/ETL-Pipeline-with-NLP-Analysis) - A comprehensive platform for processing, analyzing, and visualizing parliamentary protocols from the German Bundestag with advanced NLP capabilities and multimedia processing.
 *  [RAG Application in Python](https://github.com/topoftheblock/Financial-Report-ChatBot-Using-RAG-For-10-K-SEC-Filings) - A Retrieval-Augmented Generation (RAG) chatbot tailored for extracting quantitative metrics and qualitative insights from SEC 10-K financial filings using natural language.
 
-Find my pinned Projects below:
+Find my pinned projects below:
