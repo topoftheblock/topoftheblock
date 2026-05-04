@@ -23,7 +23,7 @@ Data Analyst at BMW Group: Owned the full machine learning lifecycle to evaluate
 
 Inhouse Consulting at Schaeffler Group: Designed game-theoretic models for auction-based procurement. Evaluated supplier risk using probit and logit regressions.
 
-## Smaller AI Projects
+## Current AI Projects
 *  [Agentic Model Tuning with Autoresearch](https://github.com/topoftheblock/autoresearch) - A comparative study evaluating autonomous LLM research loops against Bayesian optimization, inspired by Andrej Karpathy's 2026 AutoResearch paradigm.
 
 *  [Backtesting Strategy with Autoresearch](https://github.com/topoftheblock/autoresearch-backtesting) -
