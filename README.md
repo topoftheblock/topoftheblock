@@ -1,5 +1,5 @@
 ## Hi, I'm Christian  👋 
-I am a developer with a multidisciplinary background, currently pursuing a Bachelor of Science in Computer Science at Goethe University in Frankfurt, Germany. Previously, I earned a [Master of Science](https://github.com/topoftheblock/A-Heterogeneous-Agent-New-Keynesian-Model-with-Biased-Labor-Market-Expectations) in Quantitative Economics and a [Bachelor of Science](https://github.com/topoftheblock/Verhaltensanomalien-in-private-value-Auktionen-und-moegliche-Erklaerungen) in Economics from the same institution. My work bridges the gap between advanced data analysis, machine learning, and software engineering.  
+I am a developer with a multidisciplinary background, currently pursuing a Bachelor of Science in Computer Science at Goethe University in Frankfurt, Germany. Previously, I earned a [Master of Science](https://github.com/topoftheblock/A-Heterogeneous-Agent-New-Keynesian-Model-with-Biased-Labor-Market-Expectations) in Quantitative Economics and a [Bachelor of Science](https://github.com/topoftheblock/Verhaltensanomalien-in-private-value-Auktionen-und-moegliche-Erklaerungen) in Economics from the same institution. My work bridges the gap between advanced AI, machine learning, and software engineering.  
 
 
 ## Tech Stack & Tools
