@@ -28,7 +28,7 @@ Inhouse Consulting at Schaeffler Group: Designed game-theoretic models for aucti
 
 *  [Backtesting Strategy with Autoresearch](https://github.com/topoftheblock/autoresearch-backtesting) -
 
-*  [Agentic Data Scientist](https://github.com/topoftheblock/Autonomous-Data-Scientist) -
+*  [Agentic Data Scientist](https://github.com/topoftheblock/Autonomous-Data-Scientist) - A fully hands-off AI agent that acts like a data scientist: it inspects data, cleans it, runs statistical analyses, creates visualizations, and compiles a final Markdown report — all without human intervention.
 
 *  [Research Project at the Intersection of AI and Neuroscience](https://github.com/topoftheblock/ai-for-neuroscience) -
 
