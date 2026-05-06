@@ -39,5 +39,3 @@ Inhouse Consulting at Schaeffler Group: Designed game-theoretic models for aucti
 *  [Multimodal Full-Stack Application](https://github.com/topoftheblock/Multimodal_Parliament_Explorer) - Multimodal Parliament Explorer is a Java-based, MongoDB-backed platform designed to autonomously ingest, deeply analyze, and interactively present parliamentary data from the German Bundestag. By combining web scraping, advanced Natural Language Processing, and dynamic document generation, it provides a comprehensive tool for political text
 *  [ETL Pipeline with NLP and Visualization](https://github.com/topoftheblock/ETL-Pipeline-with-NLP-Analysis) - A comprehensive platform for processing, analyzing, and visualizing parliamentary protocols from the German Bundestag with advanced NLP capabilities and multimedia processing.
 *  [RAG Application in Python](https://github.com/topoftheblock/Financial-Report-ChatBot-Using-RAG-For-10-K-SEC-Filings) - A Retrieval-Augmented Generation chatbot tailored for extracting quantitative metrics and qualitative insights from SEC 10-K financial filings using natural language.
-
-Find my pinned projects below:
