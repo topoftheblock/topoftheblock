@@ -28,6 +28,8 @@ Inhouse Consulting at Schaeffler Group: Designed game-theoretic models for aucti
 
 *  [Backtesting Strategy with Autoresearch](https://github.com/topoftheblock/autoresearch-backtesting) -
 
+*  [Agentic Data Scientist](https://github.com/topoftheblock/Autonomous-Data-Scientist) -
+
 *  [Research Project at the Intersection of AI and Neuroscience](https://github.com/topoftheblock/ai-for-neuroscience) -
 
 *  [LLM Fine-Tuning with LoRa for Financial Sentiment](https://github.com/topoftheblock/Fine-Tuning-LLM-For-Financial-Sentiment) - An end-to-end real-time data pipeline for ingesting financial social media text, analyzing its sentiment using a fine-tuned Large Language Model powered by Apple's MLX, and visualizing the results.
