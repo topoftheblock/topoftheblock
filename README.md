@@ -26,7 +26,7 @@ Inhouse Consulting at Schaeffler Group: Designed game-theoretic models for aucti
 ## Current and Upcomming AI Projects
 *  [Agentic Model Tuning with Autoresearch](https://github.com/topoftheblock/autoresearch) - A comparative study evaluating autonomous LLM research loops against Bayesian optimization, inspired by Andrej Karpathy's 2026 AutoResearch paradigm.
 
-*  [Backtesting Strategy with Autoresearch](https://github.com/topoftheblock/autoresearch-backtesting) - An automated machine learning pipeline that predicts the daily directional movement (Up/Down) of the S&P 500 ETF (SPY). The system uses an autonomous Large Language Model (LLM) agent to iteratively rewrite its own PyTorch neural network architecture, optimizing for improved Sharpe Ratio and Strategy Return in a simulated trading environment.
+*  [Backtesting Strategy with Autoresearch](https://github.com/topoftheblock/autoresearch-backtesting) - An automated machine learning pipeline that predicts the daily directional movement (Up/Down) of the S&P 500 ETF (SPY). The system uses an autonomous Large Language Model agent to iteratively rewrite its own PyTorch neural network architecture, optimizing for improved Sharpe Ratio and Strategy Return in a simulated trading environment.
 
 *  [Agentic Data Scientist](https://github.com/topoftheblock/Autonomous-Data-Scientist) - A fully hands-off AI agent that acts like a data scientist: it inspects data, cleans it, runs statistical analyses, creates visualizations, and compiles a final Markdown report — all without human intervention.
 
