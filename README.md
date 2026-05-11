@@ -2,14 +2,14 @@
 I am a developer with a multidisciplinary background, currently pursuing a Bachelor of Science in Computer Science at Goethe University in Frankfurt, Germany. Previously, I earned a [Master of Science](https://github.com/topoftheblock/A-Heterogeneous-Agent-New-Keynesian-Model-with-Biased-Labor-Market-Expectations) in Quantitative Economics and a [Bachelor of Science](https://github.com/topoftheblock/Verhaltensanomalien-in-private-value-Auktionen-und-moegliche-Erklaerungen) in Economics from the same institution. My work bridges the gap between agentic AI, machine learning, and software engineering.  
 
 
-## Tech Stack and Tools
+## Tech Stack and Skills
 
 Languages: Python, Java, SQL, Haskell, R, and C++.  
 
 
 Databases: Neo4j, MongoDB, Vector Databases, and SQL.  
 
-Tools & Frameworks: Docker, Azure, Git, Apache Spark, Kafka, Airflow, PyTorch, LangChain, and DevOps practices.  
+Technologies and Frameworks: Docker, Azure, Git, Apache Spark, Kafka, Airflow, PyTorch, LangChain, and DevOps practices.  
 
 
 ## Professional Experience Through Internships and Work-Study
