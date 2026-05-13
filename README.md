@@ -17,7 +17,7 @@ Technologies and Frameworks: Docker, Azure, Git, Apache Spark, Kafka, Airflow, P
 AI-Engineer at KfW: Architected and optimized a Retrieval-Augmented Generation pipeline. Engineered advanced document preprocessing workflows for LLM consumption.  
 
 
-Researcher & Research Assistant at Goethe University: Published a proprietary R package to streamline econometric techniques. Built a high-performance C++ non-linear optimization solver. Developed predictive models and statistical methodologies.  
+Researcher and Research Assistant at Goethe University: Published a proprietary R package to streamline econometric techniques. Built a high-performance C++ non-linear optimization solver. Developed predictive models and statistical methodologies.  
 
 Data Analyst at BMW Group: Owned the full machine learning lifecycle to evaluate vehicle price depreciation. Generated key data-driven business insights.  
 
