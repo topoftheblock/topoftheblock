@@ -25,8 +25,6 @@ Data Analyst at BMW Group: Owned the full machine learning lifecycle to evaluate
 Inhouse Consulting at Schaeffler Group: Designed game-theoretic models for auction-based procurement. Evaluated supplier risk using probit and logit regressions.
 
 ## Current and Upcoming AI Projects
-*  [Research Project on Autoresearch](https://github.com/topoftheblock/autoresearch) - A comparative study evaluating autonomous LLM research loops against Bayesian optimization, inspired by Andrej Karpathy's 2026 AutoResearch paradigm.
-
 *  [Backtesting Strategy with Autoresearch](https://github.com/topoftheblock/autoresearch-backtesting) - An automated machine learning pipeline that predicts the daily directional movement of the S&P 500 ETF. The system uses an autonomous Large Language Model agent to iteratively rewrite its own PyTorch neural network architecture, optimizing for improved Sharpe Ratio and Strategy Return in a simulated trading environment.
 
 *  [Agentic Data Scientist](https://github.com/topoftheblock/Autonomous-Data-Scientist) - A fully hands-off AI agent that acts like a data scientist: it inspects data, cleans it, runs statistical analyses, creates visualizations, and compiles a final Markdown report — all without human intervention.
@@ -35,6 +33,7 @@ Inhouse Consulting at Schaeffler Group: Designed game-theoretic models for aucti
 
 *  [Research Project at the Intersection of AI and Neuroscience](https://github.com/topoftheblock/ai-for-neuroscience) - Upcoming
 
+*  [Research Project on Autoresearch](https://github.com/topoftheblock/autoresearch) - A comparative study evaluating autonomous LLM research loops against Bayesian optimization, inspired by Andrej Karpathy's 2026 AutoResearch paradigm.
 ## Finished Portfolio Projects
 
 *  [RAG Application in Java](https://github.com/topoftheblock/ChatBundestag) - A Java application for parsing XML protocols from the German Bundestag, loading them into a Neo4j graph database, and enabling natural-language querying via an AI-powered RAG pipeline.
