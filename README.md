@@ -31,9 +31,10 @@ Inhouse Consulting at Schaeffler Group: Designed game-theoretic models for aucti
 
 *  [LLM Fine-Tuning with LoRa for Financial Sentiment](https://github.com/topoftheblock/Fine-Tuning-LLM-For-Financial-Sentiment) - An end-to-end real-time data pipeline for ingesting financial social media text, analyzing its sentiment using a fine-tuned Large Language Model powered by Apple's MLX, and visualizing the results.
 
+*  [Research Project on Autoresearch](https://github.com/topoftheblock/autoresearch) - A comparative study evaluating autonomous LLM research loops against Bayesian optimization, inspired by Andrej Karpathy's 2026 AutoResearch paradigm.
+
 *  [Research Project at the Intersection of AI and Neuroscience](https://github.com/topoftheblock/ai-for-neuroscience) - Upcoming
 
-*  [Research Project on Autoresearch](https://github.com/topoftheblock/autoresearch) - A comparative study evaluating autonomous LLM research loops against Bayesian optimization, inspired by Andrej Karpathy's 2026 AutoResearch paradigm.
 ## Finished Portfolio Projects
 
 *  [RAG Application in Java](https://github.com/topoftheblock/ChatBundestag) - A Java application for parsing XML protocols from the German Bundestag, loading them into a Neo4j graph database, and enabling natural-language querying via an AI-powered RAG pipeline.
