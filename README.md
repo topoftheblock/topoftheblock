@@ -15,14 +15,14 @@ Technologies and Frameworks: Docker, Azure, Git, Apache Spark, Kafka, Airflow, P
 
 ## Professional Experience Through Internships and Work-Study
 
-AI-Engineer at KfW: Architected and optimized a Retrieval-Augmented Generation pipeline. Engineered advanced document preprocessing workflows for LLM consumption.  
+* AI-Engineer at KfW: Architected and optimized a Retrieval-Augmented Generation pipeline. Engineered advanced document preprocessing workflows for LLM consumption.  
 
 
-Researcher and Research Assistant at Goethe University: Published a proprietary R package to streamline econometric techniques. Built a high-performance C++ non-linear optimization solver. Developed predictive models and statistical methodologies.  
+* Researcher and Research Assistant at Goethe University: Published a proprietary R package to streamline econometric techniques. Built a high-performance C++ non-linear optimization solver. Developed predictive models and statistical methodologies.  
 
-Data Analyst at BMW Group: Owned the full machine learning lifecycle to evaluate vehicle price depreciation. Generated key data-driven business insights.  
+* Data Analyst at BMW Group: Owned the full machine learning lifecycle to evaluate vehicle price depreciation. Generated key data-driven business insights.  
 
-Inhouse Consulting at Schaeffler Group: Designed game-theoretic models for auction-based procurement. Evaluated supplier risk using probit and logit regressions.
+* Inhouse Consulting at Schaeffler Group: Designed game-theoretic models for auction-based procurement. Evaluated supplier risk using probit and logit regressions.
 
 ## Current and Upcoming AI Projects
 *  [Backtesting Strategy with Autoresearch](https://github.com/topoftheblock/autoresearch-backtesting) - An automated machine learning pipeline that predicts the daily directional movement of the S&P 500 ETF. The system uses an autonomous Large Language Model agent to iteratively rewrite its own PyTorch neural network architecture, optimizing for improved Sharpe Ratio and Strategy Return in a simulated trading environment.
