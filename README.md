@@ -15,7 +15,7 @@ Technologies and Frameworks: Docker, Azure, Git, Apache Spark, Kafka, Airflow, P
 
 ## Professional Experience Through Internships and Work-Study
 
-* AI-Engineer at KfW: Architected and optimized a Retrieval-Augmented Generation pipeline. Engineered advanced document preprocessing workflows for LLM consumption.  
+* AI-Engineer at [KfW](https://en.wikipedia.org/wiki/KfW): Architected and optimized a Retrieval-Augmented Generation pipeline. Engineered advanced document preprocessing workflows for LLM consumption.  
 
 
 * Researcher and Research Assistant at Goethe University: Published a proprietary R package to streamline econometric techniques. Built a high-performance C++ non-linear optimization solver. Developed predictive models and statistical methodologies.  
