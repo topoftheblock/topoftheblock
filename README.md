@@ -1,7 +1,7 @@
 ## Gude! (Hessian word for Hello)
 I specialize in building end-to-end AI and data engineering systems — from fine-tuning LLMs and designing agentic workflows and RAG pipelines to developing real-time streaming infrastructure, graph databases, and interactive dashboards across large-scale NLP and financial applications.
 
-I am a developer with a multidisciplinary background, currently pursuing a Bachelor of Science in Computer Science at Goethe University in Frankfurt, Germany. Previously, I earned a [Master of Science](https://github.com/topoftheblock/A-Heterogeneous-Agent-New-Keynesian-Model-with-Biased-Labor-Market-Expectations) in Quantitative Economics and a [Bachelor of Science](https://github.com/topoftheblock/Verhaltensanomalien-in-private-value-Auktionen-und-moegliche-Erklaerungen) in Economics from the same institution. 
+I am a developer with a multidisciplinary background, currently pursuing a Bachelor of Science in Computer Science at Goethe University in Frankfurt, Germany. Previously, I earned a Master of Science in [Quantitative Economics](https://www.uni-frankfurt.de/de/studium/studiengaenge/quantitative-accounting-economics-finance-marketing-master)  and a [Bachelor of Science](https://github.com/topoftheblock/Verhaltensanomalien-in-private-value-Auktionen-und-moegliche-Erklaerungen) in Economics from the same institution. 
 
 ## Technology Stack and Skills
 
