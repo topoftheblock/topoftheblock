@@ -24,6 +24,8 @@ Technologies and Frameworks: Docker, Azure, Git, Apache Spark, Kafka, Airflow, P
 
 * Inhouse Consulting at [Schaeffler Group](https://en.wikipedia.org/wiki/Schaeffler_Group): Designed game-theoretic models for auction-based procurement. Evaluated supplier risk using probit and logit regressions.
 
+* Student Researcher at [ZEW](https://en.wikipedia.org/wiki/Zentrum_für_Europäische_Wirtschaftsforschung) and [Walter Eucken Institute](https://en.wikipedia.org/wiki/Walter_Eucken_Institut): Developed Machine Learning Pipelines for various research applications  
+
 ## Current and Upcoming AI Projects
 *  [Backtesting Strategy with Autoresearch](https://github.com/topoftheblock/autoresearch-backtesting) - An automated machine learning pipeline that predicts the daily directional movement of the S&P 500 ETF. The system uses an autonomous Large Language Model agent to iteratively rewrite its own PyTorch neural network architecture, optimizing for improved Sharpe Ratio and Strategy Return in a simulated trading environment.
 
