@@ -3,7 +3,7 @@ I specialize in building end-to-end AI and data engineering systems — from fin
 
 I am a developer with a multidisciplinary background, currently pursuing a Bachelor of Science in Computer Science at Goethe University in Frankfurt, Germany. Previously, I earned a [Master of Science](https://github.com/topoftheblock/A-Heterogeneous-Agent-New-Keynesian-Model-with-Biased-Labor-Market-Expectations) in Quantitative Economics and a [Bachelor of Science](https://github.com/topoftheblock/Verhaltensanomalien-in-private-value-Auktionen-und-moegliche-Erklaerungen) in Economics from the same institution. 
 
-## Tech Stack and Skills
+## Technology Stack and Skills
 
 Languages: Python, Java, SQL, JavaScript, Haskell, HTML, CSS, R, and C++.  
 
