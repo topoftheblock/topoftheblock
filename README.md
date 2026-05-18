@@ -51,6 +51,6 @@ Technologies and Frameworks: Docker, Azure, Git, Apache Spark, Kafka, Airflow, P
 * [Bachelor Thesis](https://github.com/topoftheblock/Verhaltensanomalien-in-private-value-Auktionen-und-moegliche-Erklaerungen) - The research examines the discrepancies between classical auction theory and actual human behavior in private-value auctions, focusing on persistent behavioral anomalies such as overbidding. It deeply explores alternative behavioral motives that drive participants to deviate from standard theoretical predictions.
 * [Fehr-Schmidt Preferences](https://github.com/topoftheblock/Fehr-Schmidt-Preferences-Explained-in-German) -  It examines social preferences, specifically inequality aversion, as an explanation for human behavior that deviates from the traditional, purely selfish homo oeconomicus.
 
- ## A Little About Me
+ ## Personal Stuff
 I'm currently based in Frankfurt, where I spend my free time hanging out with my dog, exploring the local art scene, and staying active. I'm a big fan of both table tennis and golf. I thrive on good conversation and absolutely love connecting with fascinating people from all different cultures and walks of life. Always happy to grab a virtual (or local!) coffee to talk about projects, hobbies, or life in general!
 
