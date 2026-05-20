@@ -52,5 +52,5 @@ Technologies and Frameworks: Docker, Azure, Git, Apache Spark, Kafka, Airflow, P
 * [Fehr-Schmidt Preferences](https://github.com/topoftheblock/Fehr-Schmidt-Preferences-Explained-in-German) -  It examines social preferences, specifically inequality aversion, as an explanation for human behavior that deviates from the traditional, purely selfish homo oeconomicus.
 
  ## Personal
-I am based in Frankfurt, where I spend my free time hanging out with my dog, exploring the local art scene, and staying active. I'm a big fan of both table tennis and golf. I thrive on good conversation and absolutely love connecting with fascinating people from all different cultures and walks of life. Always happy to grab a virtual or local coffee to talk about projects, hobbies, or life in general!
+I am based in Frankfurt, where I spend my free time hanging out with my dog, exploring the local art scene, and staying active. I am a big fan of both table tennis and golf. I thrive on good conversation and absolutely love connecting with fascinating people from all different cultures and walks of life. Always happy to grab a virtual or local coffee to talk about projects, hobbies, or life in general!
 
