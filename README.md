@@ -1,4 +1,4 @@
-## Gude! (Hessian word for Hello)
+## Gude! 
 I specialize in building end-to-end AI and data engineering systems — from fine-tuning LLMs and designing agentic workflows and RAG pipelines to developing real-time streaming infrastructure, graph databases, and interactive dashboards across large-scale NLP and financial applications.
 
 I am a developer with a multidisciplinary background, currently pursuing a Bachelor of Science in Computer Science at  [Goethe University](https://en.wikipedia.org/wiki/Goethe_University_Frankfurt) in Frankfurt, Germany. Previously, I earned a Master of Science in [Quantitative Economics](https://www.uni-frankfurt.de/de/studium/studiengaenge/quantitative-accounting-economics-finance-marketing-master)  and a Bachelor of Science in [Economics](https://www.uni-frankfurt.de/de/studium/studiengaenge/wirtschaftswissenschaften-bachelor) from the same institution. 
