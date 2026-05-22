@@ -35,6 +35,8 @@ Technologies and Frameworks: Docker, Azure, Git, Apache Spark, Kafka, Airflow, P
 
 *  [Research Project on Autoresearch](https://github.com/topoftheblock/autoresearch) - A comparative study evaluating autonomous LLM research loops against Bayesian optimization, inspired by Andrej Karpathy's 2026 AutoResearch paradigm.
 
+*  [Video Emotion Recognition](https://github.com/topoftheblock/Video-Emotion-Recognition) - Emotion recognition in videos has been around for some time, and
+various methods exist. In addition to pure video analysis, multimodal LLMs can also deliver good results in emotion recognition.
 ## Finished Portfolio Projects
 
 *  [RAG Application in Java](https://github.com/topoftheblock/ChatBundestag) - A Java application for parsing XML protocols from the German Bundestag, loading them into a Neo4j graph database, and enabling natural-language querying via an AI-powered RAG pipeline.
