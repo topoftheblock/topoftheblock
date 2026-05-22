@@ -35,7 +35,7 @@ Technologies and Frameworks: Docker, Azure, Git, Apache Spark, Kafka, Airflow, P
 
 *  [Research Project on Autoresearch](https://github.com/topoftheblock/autoresearch) - A comparative study evaluating autonomous LLM research loops against Bayesian optimization, inspired by Andrej Karpathy's 2026 AutoResearch paradigm.
 
-*  [Video Emotion Recognition](https://github.com/topoftheblock/Video-Emotion-Recognition) - Emotion recognition in videos has been around for some time, and
+*  [(Upcoming) Video Emotion Recognition](https://github.com/topoftheblock/Video-Emotion-Recognition) - Emotion recognition in videos has been around for some time, and
 various methods exist. In addition to pure video analysis, multimodal LLMs can also deliver good results in emotion recognition.
 ## Finished Portfolio Projects
 
@@ -47,7 +47,7 @@ various methods exist. In addition to pure video analysis, multimodal LLMs can a
 
  ## Other Projects
 
-* [Seminar Thesis in Computer Science at the Intersection of AI and Neuroscience](https://github.com/topoftheblock/ai-for-neuroscience) - Upcoming
+* [(Upcoming) Seminar Thesis in Computer Science at the Intersection of AI and Neuroscience](https://github.com/topoftheblock/ai-for-neuroscience) - Report and Presentation on Generating Computational Cognitive Models using Large Language Models
 
 * [Master Thesis](https://github.com/topoftheblock/A-Heterogeneous-Agent-New-Keynesian-Model-with-Biased-Labor-Market-Expectations) - The research integrates biased labor market expectations into a Heterogeneous Agent New Keynesian framework to analyze their macroeconomic implications. By simulating both a positive technology shock and a contractionary monetary policy shock, the study evaluates the distinct economic responses across two separate labor market calibrations: the United States and Germany.
 * [Bachelor Thesis](https://github.com/topoftheblock/Verhaltensanomalien-in-private-value-Auktionen-und-moegliche-Erklaerungen) - The research examines the discrepancies between classical auction theory and actual human behavior in private-value auctions, focusing on persistent behavioral anomalies such as overbidding. It deeply explores alternative behavioral motives that drive participants to deviate from standard theoretical predictions.
