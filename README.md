@@ -5,7 +5,7 @@ I am a developer with a multidisciplinary background, currently pursuing a Bache
 
 ## Technology Stack and Skills
 
-Languages: Python, Java, SQL, JavaScript, Haskell, HTML, CSS, R, and C++.  
+Languages: Python, Java, SQL, JavaScript, TypeScript, Haskell, HTML, CSS, R, and C++.  
 
 
 Databases: Neo4j, MongoDB, Vector Databases, and SQL.  
