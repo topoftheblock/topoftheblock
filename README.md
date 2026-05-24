@@ -57,3 +57,7 @@ various methods exist. In addition to pure video analysis, multimodal LLMs can a
 * [Bachelor Thesis](https://github.com/topoftheblock/Verhaltensanomalien-in-private-value-Auktionen-und-moegliche-Erklaerungen) - The research examines the discrepancies between classical auction theory and actual human behavior in private-value auctions, focusing on persistent behavioral anomalies such as overbidding. It deeply explores alternative behavioral motives that drive participants to deviate from standard theoretical predictions.
 * [Fehr-Schmidt Preferences](https://github.com/topoftheblock/Fehr-Schmidt-Preferences-Explained-in-German) -  It examines social preferences, specifically inequality aversion, as an explanation for human behavior that deviates from the traditional, purely selfish homo oeconomicus.
 
+ ## Contact
+
+ Discord: christian_21224
+
