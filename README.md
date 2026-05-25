@@ -33,12 +33,12 @@ Technologies and Frameworks: Docker, Azure, Git, Apache Spark, Kafka, Airflow, P
 
 *  [(Looking for Inspiration to Refine it) LLM Fine-Tuning with LoRa for Financial Sentiment](https://github.com/topoftheblock/Fine-Tuning-LLM-For-Financial-Sentiment) - An end-to-end real-time data pipeline for ingesting financial social media text, analyzing its sentiment using a fine-tuned Large Language Model powered by Apple's MLX, and visualizing the results.
 
-*  [(Upcoming) Research Project on Autoresearch](https://github.com/topoftheblock/autoresearch) - A comparative study evaluating autonomous LLM research loops against Bayesian optimization, inspired by Andrej Karpathy's 2026 AutoResearch paradigm.
+*  [(Early-Stage) Research Project on Autoresearch](https://github.com/topoftheblock/autoresearch) - A comparative study evaluating autonomous LLM research loops against Bayesian optimization, inspired by Andrej Karpathy's 2026 AutoResearch paradigm.
 
 *  [(Upcoming) Video Emotion Recognition](https://github.com/topoftheblock/Video-Emotion-Recognition) - Emotion recognition in videos has been around for some time, and
 various methods exist. In addition to pure video analysis, multimodal LLMs can also deliver good results in emotion recognition.
 
-* [(Upcoming) Seminar Thesis in Computer Science at the Intersection of AI and Neuroscience](https://github.com/topoftheblock/ai-for-neuroscience) - Report and Presentation on Generating Computational Cognitive Models using Large Language Models
+* [Early-Stage) Seminar Thesis in Computer Science at the Intersection of AI and Neuroscience](https://github.com/topoftheblock/ai-for-neuroscience) - Report and Presentation on Generating Computational Cognitive Models using Large Language Models
 
 ## Finished Portfolio Projects
 
