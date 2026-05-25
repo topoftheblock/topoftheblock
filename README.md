@@ -13,7 +13,7 @@ Databases: Neo4j, MongoDB, Vector Databases, and SQL.
 Technologies and Frameworks: Docker, Azure, Git, Apache Spark, Kafka, Airflow, PyTorch, LangChain, and DevOps practices.  
 
 
-## Professional Experience Through Internships and Work-Study
+## Professional Experience Through Internships Work-Study, and Full-Time Work
 
 * AI-Engineer at [KfW](https://en.wikipedia.org/wiki/KfW): Architected and optimized a Retrieval-Augmented Generation pipeline. Engineered advanced document preprocessing workflows for LLM consumption.  
 
