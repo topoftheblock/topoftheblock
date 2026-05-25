@@ -33,10 +33,13 @@ Technologies and Frameworks: Docker, Azure, Git, Apache Spark, Kafka, Airflow, P
 
 *  [LLM Fine-Tuning with LoRa for Financial Sentiment](https://github.com/topoftheblock/Fine-Tuning-LLM-For-Financial-Sentiment) - An end-to-end real-time data pipeline for ingesting financial social media text, analyzing its sentiment using a fine-tuned Large Language Model powered by Apple's MLX, and visualizing the results.
 
-*  [Research Project on Autoresearch](https://github.com/topoftheblock/autoresearch) - A comparative study evaluating autonomous LLM research loops against Bayesian optimization, inspired by Andrej Karpathy's 2026 AutoResearch paradigm.
+*  [(Upcoming) Research Project on Autoresearch](https://github.com/topoftheblock/autoresearch) - A comparative study evaluating autonomous LLM research loops against Bayesian optimization, inspired by Andrej Karpathy's 2026 AutoResearch paradigm.
 
 *  [(Upcoming) Video Emotion Recognition](https://github.com/topoftheblock/Video-Emotion-Recognition) - Emotion recognition in videos has been around for some time, and
 various methods exist. In addition to pure video analysis, multimodal LLMs can also deliver good results in emotion recognition.
+
+* [(Upcoming) Seminar Thesis in Computer Science at the Intersection of AI and Neuroscience](https://github.com/topoftheblock/ai-for-neuroscience) - Report and Presentation on Generating Computational Cognitive Models using Large Language Models
+
 ## Finished Portfolio Projects
 
 *  [RAG Application in Java](https://github.com/topoftheblock/ChatBundestag) - A Java application for parsing XML protocols from the German Bundestag, loading them into a Neo4j graph database, and enabling natural-language querying via an AI-powered RAG pipeline.
@@ -50,9 +53,7 @@ various methods exist. In addition to pure video analysis, multimodal LLMs can a
 *  [ETL Pipeline with NLP and Visualization](https://github.com/topoftheblock/ETL-Pipeline-with-NLP-Analysis) - A comprehensive platform for processing, analyzing, and visualizing parliamentary protocols from the German Bundestag with advanced NLP capabilities and multimedia processing.
 
  ## Other Projects
-
-* [(Upcoming) Seminar Thesis in Computer Science at the Intersection of AI and Neuroscience](https://github.com/topoftheblock/ai-for-neuroscience) - Report and Presentation on Generating Computational Cognitive Models using Large Language Models
-
+ 
 * [Master Thesis](https://github.com/topoftheblock/A-Heterogeneous-Agent-New-Keynesian-Model-with-Biased-Labor-Market-Expectations) - The research integrates biased labor market expectations into a Heterogeneous Agent New Keynesian framework to analyze their macroeconomic implications. By simulating both a positive technology shock and a contractionary monetary policy shock, the study evaluates the distinct economic responses across two separate labor market calibrations: the United States and Germany.
 * [Bachelor Thesis](https://github.com/topoftheblock/Verhaltensanomalien-in-private-value-Auktionen-und-moegliche-Erklaerungen) - The research examines the discrepancies between classical auction theory and actual human behavior in private-value auctions, focusing on persistent behavioral anomalies such as overbidding. It deeply explores alternative behavioral motives that drive participants to deviate from standard theoretical predictions.
 * [Fehr-Schmidt Preferences](https://github.com/topoftheblock/Fehr-Schmidt-Preferences-Explained-in-German) -  It examines social preferences, specifically inequality aversion, as an explanation for human behavior that deviates from the traditional, purely selfish homo oeconomicus.
