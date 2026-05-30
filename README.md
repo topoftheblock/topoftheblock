@@ -59,7 +59,10 @@ various methods exist. In addition to pure video analysis, multimodal LLMs can a
 
  ## Personal
  Newspapers I read on a regular basis: Financial Times, Wall Street Journal, Bloomberg
- Countries I have traveled to: Germany, Switzerland, France, Spain, Portugal, Sweden, Norway, Czech Republic, Italy, England, Ireland, Belgium, Austria, Netherlands
+ 
+ Countries I have visited: Germany, Switzerland, France, Spain, Portugal, Sweden, Norway, Czech Republic, Italy, England, Ireland, Belgium, Austria, Netherlands
+ 
+ 
  ## Contact
 
  Discord: christian_21224
