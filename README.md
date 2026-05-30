@@ -58,7 +58,8 @@ various methods exist. In addition to pure video analysis, multimodal LLMs can a
 * [A Seminar Thesis on Fehr-Schmidt Preferences](https://github.com/topoftheblock/Fehr-Schmidt-Preferences-Explained-in-German) -  It examines social preferences, specifically inequality aversion, as an explanation for human behavior that deviates from the traditional, purely selfish homo oeconomicus.
 
  ## Personal
- 
+ Newspapers I read on a regular basis: Financial Times, Wall Street Journal, Bloomberg
+ Countries I have traveled to: Germany, Switzerland, France, Spain, Portugal, Sweden, Norway, Czech Republic, Italy, England, Ireland, Belgium, Austria, Netherlands
  ## Contact
 
  Discord: christian_21224
