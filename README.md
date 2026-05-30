@@ -56,12 +56,6 @@ various methods exist. In addition to pure video analysis, multimodal LLMs can a
 * [My Master Thesis in Quantitative Economics](https://github.com/topoftheblock/A-Heterogeneous-Agent-New-Keynesian-Model-with-Biased-Labor-Market-Expectations) - The research integrates biased labor market expectations into a Heterogeneous Agent New Keynesian framework to analyze their macroeconomic implications. By simulating both a positive technology shock and a contractionary monetary policy shock, the study evaluates the distinct economic responses across two separate labor market calibrations: the United States and Germany.
 * [My Bachelor Thesis in Economics](https://github.com/topoftheblock/Verhaltensanomalien-in-private-value-Auktionen-und-moegliche-Erklaerungen) - The research examines the discrepancies between classical auction theory and actual human behavior in private-value auctions, focusing on persistent behavioral anomalies such as overbidding. It deeply explores alternative behavioral motives that drive participants to deviate from standard theoretical predictions.
 * [A Seminar Thesis on Fehr-Schmidt Preferences](https://github.com/topoftheblock/Fehr-Schmidt-Preferences-Explained-in-German) -  It examines social preferences, specifically inequality aversion, as an explanation for human behavior that deviates from the traditional, purely selfish homo oeconomicus.
-
- ## Personal
- Newspapers I read on a regular basis: Financial Times, Wall Street Journal, Bloomberg
- 
- Countries I have visited: Germany, Switzerland, France, Spain, Portugal, Sweden, Norway, Czech Republic, Italy, England, Ireland, Belgium, Austria, Netherlands
- 
  
  ## Contact
 
