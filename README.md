@@ -1,22 +1,3 @@
-## Gude! 
-I specialize in building end-to-end AI and data engineering systems; from fine-tuning LLMs and designing agentic workflows and RAG pipelines to developing real-time streaming infrastructure, graph databases, and interactive dashboards across large-scale NLP and financial applications. 
-
-I have a multidisciplinary background, currently pursuing a Bachelor of Science in Computer Science at  [Goethe University](https://en.wikipedia.org/wiki/Goethe_University_Frankfurt) in Frankfurt, Germany. Previously, I earned a Master of Science in [Quantitative Economics](https://www.uni-frankfurt.de/de/studium/studiengaenge/quantitative-accounting-economics-finance-marketing-master)  and a Bachelor of Science in [Economics](https://www.uni-frankfurt.de/de/studium/studiengaenge/wirtschaftswissenschaften-bachelor) from the same institution. 
-
-
-## Professional Experience Through Internships, and Work-Study
-
-* AI-Engineer at [KfW](https://en.wikipedia.org/wiki/KfW): Architected and optimized a Retrieval-Augmented Generation pipeline. Engineered advanced document preprocessing workflows for LLM consumption.  
-
-
-* Researcher and Research Assistant at [Goethe University](https://en.wikipedia.org/wiki/Goethe_University_Frankfurt): Published a proprietary R package to streamline econometric techniques. Built a high-performance C++ non-linear optimization solver. Developed predictive models and statistical methodologies.  
-
-* Data Analyst at [BMW Group](https://en.wikipedia.org/wiki/BMW): Owned the full machine learning lifecycle to evaluate vehicle price depreciation. Generated key data-driven business insights.  
-
-* Inhouse Consulting at [Schaeffler Group](https://en.wikipedia.org/wiki/Schaeffler_Group): Designed game-theoretic models for auction-based procurement. Evaluated supplier risk using probit and logit regressions.
-
-* Student Researcher at [ZEW](https://en.wikipedia.org/wiki/Zentrum_für_Europäische_Wirtschaftsforschung) and [Walter Eucken Institute](https://en.wikipedia.org/wiki/Walter_Eucken_Institut): Developed Machine Learning Pipelines for various research applications  
-
 ## Current and Upcoming AI Projects
 *  [(90% Finished) Backtesting Strategy with Autoresearch](https://github.com/topoftheblock/autoresearch-backtesting) - An automated machine learning pipeline that predicts the daily directional movement of the S&P 500 ETF. The system uses an autonomous Large Language Model agent to iteratively rewrite its own PyTorch neural network architecture, optimizing for improved Sharpe Ratio and Strategy Return in a simulated trading environment.
 
