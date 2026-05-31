@@ -3,15 +3,6 @@ I specialize in building end-to-end AI and data engineering systems; from fine-t
 
 I have a multidisciplinary background, currently pursuing a Bachelor of Science in Computer Science at  [Goethe University](https://en.wikipedia.org/wiki/Goethe_University_Frankfurt) in Frankfurt, Germany. Previously, I earned a Master of Science in [Quantitative Economics](https://www.uni-frankfurt.de/de/studium/studiengaenge/quantitative-accounting-economics-finance-marketing-master)  and a Bachelor of Science in [Economics](https://www.uni-frankfurt.de/de/studium/studiengaenge/wirtschaftswissenschaften-bachelor) from the same institution. 
 
-## Technology Stack and Skills
-
-Languages: Python, Java, SQL, JavaScript, TypeScript, Haskell, HTML, CSS, R, and C++.  
-
-
-Databases: Neo4j, MongoDB, Vector Databases, and SQL.  
-
-Technologies and Frameworks: Docker, Azure, Git, Apache Spark, Kafka, Airflow, PyTorch, LangChain, and DevOps practices.  
-
 
 ## Professional Experience Through Internships, and Work-Study
 
@@ -54,11 +45,6 @@ various methods exist. In addition to pure video analysis, multimodal LLMs can a
  ## Project Ideas
 
 Agentic AI for Anomaly Detection in Documents: A multi-agent AI system that detects, explains, and helps resolve anomalies by combining classical ML with the reasoning power of Large Language Models. Instead of a single model, a swarm of specialized agents collaborates in real-time, mimicking a human operations team.
- ## Other Projects
- 
-* [My Master Thesis in Quantitative Economics](https://github.com/topoftheblock/A-Heterogeneous-Agent-New-Keynesian-Model-with-Biased-Labor-Market-Expectations) - The research integrates biased labor market expectations into a Heterogeneous Agent New Keynesian framework to analyze their macroeconomic implications. By simulating both a positive technology shock and a contractionary monetary policy shock, the study evaluates the distinct economic responses across two separate labor market calibrations: the United States and Germany.
-* [My Bachelor Thesis in Economics](https://github.com/topoftheblock/Verhaltensanomalien-in-private-value-Auktionen-und-moegliche-Erklaerungen) - The research examines the discrepancies between classical auction theory and actual human behavior in private-value auctions, focusing on persistent behavioral anomalies such as overbidding. It deeply explores alternative behavioral motives that drive participants to deviate from standard theoretical predictions.
-* [A Seminar Thesis on Fehr-Schmidt Preferences](https://github.com/topoftheblock/Fehr-Schmidt-Preferences-Explained-in-German) -  It examines social preferences, specifically inequality aversion, as an explanation for human behavior that deviates from the traditional, purely selfish homo oeconomicus.
  
  ## Contact
 
