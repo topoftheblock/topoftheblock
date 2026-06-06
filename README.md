@@ -31,5 +31,7 @@ Agentic AI for Anomaly Detection in Documents: A multi-agent AI system that dete
 Operating System for AI: AI agents would be less about managing hardware and more about managing intelligence as a service—orchestrating autonomous digital workers that perceive, reason, act, and learn. Think of it as a meta-OS that abstracts away the complexity of agent lifecycles, memory, tools, and multi-agent coordination, much like a traditional OS abstracts the CPU, RAM, and disk.
 
 Predict Model Generated GDP with Transformers
+
+Something with recursive selfimprovimg agents
  
 
