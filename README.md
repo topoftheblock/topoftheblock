@@ -33,5 +33,7 @@ Operating System for AI: AI agents would be less about managing hardware and mor
 Predict Model Generated GDP with Transformers
 
 Something with recursive selfimprovimg agents
+
+Recommender System for Stock investemetns 
  
 
