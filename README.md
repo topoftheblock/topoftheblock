@@ -32,10 +32,10 @@ various methods exist. In addition to pure video analysis, multimodal LLMs can a
 
 3. Predict Model Generated GDP with Transformers: TBC
 
-4. Something with recursive selfimprovimg agents: TBC
+4. Something with recursive self-improving agents: TBC
 
 5. Recommender System for Stock investments: TBC
 
-6. Website and infrastructure design to facilitate the interaction of ai agents 
+6. Website and infrastructure design to facilitate the interaction of AI agents 
  
 
