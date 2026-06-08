@@ -34,7 +34,7 @@ various methods exist. In addition to pure video analysis, multimodal LLMs can a
 
 4. Something with recursive selfimprovimg agents: TBC
 
-5. Recommender System for Stock investemetns: TBC
+5. Recommender System for Stock investments: TBC
 
 6. Website and infrastructure design to facilitate the interaction of ai agents 
  
