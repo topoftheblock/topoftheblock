@@ -7,7 +7,7 @@
 
 [Research Project on Autoresearch](https://github.com/topoftheblock/autoresearch) - A comparative study evaluating autonomous LLM research loops against Bayesian optimization, inspired by Andrej Karpathy's 2026 AutoResearch paradigm.
 
-[Computer Science at the Intersection of AI and Neuroscience](https://github.com/topoftheblock/ai-for-neuroscience) - Report and Presentation on Generating Computational Cognitive Models using Large Language Models
+[Paper presentation at the Intersection of AI and Neuroscience](https://github.com/topoftheblock/ai-for-neuroscience) - Report and Presentation on Generating Computational Cognitive Models using Large Language Models
 
 [Video Emotion Recognition](https://github.com/topoftheblock/Video-Emotion-Recognition) - Emotion recognition in videos has been around for some time, and
 various methods exist. In addition to pure video analysis, multimodal LLMs can also deliver good results in emotion recognition.
