@@ -1,6 +1,4 @@
 ## Current Projects
-[LLM Fine-Tuning with LoRa for Financial Sentiment](https://github.com/topoftheblock/Fine-Tuning-LLM-For-Financial-Sentiment) - An end-to-end real-time data pipeline for ingesting financial social media text, analyzing its sentiment using a fine-tuned Large Language Model powered by Apple's MLX, and visualizing the results.
-
 [Research Project on Autoresearch](https://github.com/topoftheblock/autoresearch) - A comparative study evaluating autonomous LLM research loops against Bayesian optimization, inspired by Andrej Karpathy's 2026 AutoResearch paradigm.
 
 [Paper Presentation at the Intersection of AI and Neuroscience](https://github.com/topoftheblock/ai-for-neuroscience) - Report and Presentation on Generating Computational Cognitive Models using Large Language Models
@@ -23,6 +21,7 @@ various methods exist. In addition to pure video analysis, multimodal LLMs can a
 
 [ETL Pipeline with NLP and Visualization](https://github.com/topoftheblock/ETL-Pipeline-with-NLP-Analysis) - A comprehensive platform for processing, analyzing, and visualizing parliamentary protocols from the German Bundestag with advanced NLP capabilities and multimedia processing.
 
+[LLM Fine-Tuning with LoRa for Financial Sentiment](https://github.com/topoftheblock/Fine-Tuning-LLM-For-Financial-Sentiment) - An end-to-end real-time data pipeline for ingesting financial social media text, analyzing its sentiment using a fine-tuned Large Language Model powered by Apple's MLX, and visualizing the results.
  ## Upcoming Projects
 
 1. Agentic AI for Anomaly Detection in Documents: A multi-agent AI system that detects, explains, and helps resolve anomalies by combining classical ML with the reasoning power of Large Language Models. Instead of a single model, a swarm of specialized agents collaborates in real-time, mimicking a human operations team.
