@@ -28,12 +28,6 @@ various methods exist. In addition to pure video analysis, multimodal LLMs can a
 
 2. Operating System for AI: AI agents would be less about managing hardware and more about managing intelligence as a service—orchestrating autonomous digital workers that perceive, reason, act, and learn. Think of it as a meta-OS that abstracts away the complexity of agent lifecycles, memory, tools, and multi-agent coordination, much like a traditional OS abstracts the CPU, RAM, and disk.
 
-3. Predict Model Generated GDP with Transformers: TBC
-
-4. Something with recursive self-improving agents: TBC
-
-5. Recommender System for Stock investments: TBC
-
-6. Website and infrastructure design to facilitate the interaction of AI agents 
+3. Website and infrastructure design to facilitate the interaction of AI agents 
  
 
