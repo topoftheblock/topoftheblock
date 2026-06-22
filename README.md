@@ -28,6 +28,8 @@ various methods exist. In addition to pure video analysis, multimodal LLMs can a
 
 2. Operating System for AI: AI agents would be less about managing hardware and more about managing intelligence as a service—orchestrating autonomous digital workers that perceive, reason, act, and learn. Think of it as a meta-OS that abstracts away the complexity of agent lifecycles, memory, tools, and multi-agent coordination, much like a traditional OS abstracts the CPU, RAM, and disk.
 
-3. Website and infrastructure design to facilitate the interaction of AI agents 
+3. Website and infrastructure design to facilitate the interaction of AI agents
+
+4. MCP server
  
 
