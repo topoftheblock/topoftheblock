@@ -32,5 +32,5 @@ various methods exist. In addition to pure video analysis, multimodal LLMs can a
 3. Website and infrastructure design to facilitate the interaction of AI agents
 
 4. Adorno Brain
-5. MCP to APP
+
 
