@@ -33,4 +33,4 @@ various methods exist. In addition to pure video analysis, multimodal LLMs can a
 
 4. Adorno Brain
 
-
+5. NLP x Poetry
