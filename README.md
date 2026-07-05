@@ -28,3 +28,5 @@ various methods exist. In addition to pure video analysis, multimodal LLMs can a
 4. Adorno Brain
 
 5. NLP x Poetry
+
+6. Minimze text while keeping sematic integrity
