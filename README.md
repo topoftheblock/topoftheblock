@@ -21,8 +21,6 @@ various methods exist. In addition to pure video analysis, multimodal LLMs can a
 [Multimodal Full-Stack Application](https://github.com/topoftheblock/Multimodal_Parliament_Explorer) - Multimodal Parliament Explorer is a Java-based, MongoDB-backed platform designed to autonomously ingest, deeply analyze, and interactively present parliamentary data from the German Bundestag. By combining web scraping, advanced Natural Language Processing, and dynamic document generation, it provides a comprehensive tool for political text
 
 [ETL Pipeline with NLP and Visualization](https://github.com/topoftheblock/ETL-Pipeline-with-NLP-Analysis) - A comprehensive platform for processing, analyzing, and visualizing parliamentary protocols from the German Bundestag with advanced NLP capabilities and multimedia processing.
-
-[LLM Fine-Tuning with LoRa for Financial Sentiment](https://github.com/topoftheblock/Fine-Tuning-LLM-For-Financial-Sentiment) - An end-to-end real-time data pipeline for ingesting financial social media text, analyzing its sentiment using a fine-tuned Large Language Model powered by Apple's MLX, and visualizing the results.
  ## Upcoming Projects
 
 1. Agentic AI for Anomaly Detection in Documents: A multi-agent AI system that detects, explains, and helps resolve anomalies by combining classical ML with the reasoning power of Large Language Models. Instead of a single model, a swarm of specialized agents collaborates in real-time, mimicking a human operations team.
