@@ -23,8 +23,6 @@ various methods exist. In addition to pure video analysis, multimodal LLMs can a
 
 1. Agentic AI for Anomaly Detection in Documents: A multi-agent AI system that detects, explains, and helps resolve anomalies by combining classical ML with the reasoning power of Large Language Models. Instead of a single model, a swarm of specialized agents collaborates in real-time, mimicking a human operations team.
 
-2. Adorno Brain
+2. NLP x Poetry
 
-3. NLP x Poetry
-
-4. Minimze text while keeping sematic integrity
+3. Minimze text while keeping sematic integrity
