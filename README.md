@@ -21,12 +21,8 @@ various methods exist. In addition to pure video analysis, multimodal LLMs can a
 
 1. Agentic AI for Anomaly Detection in Documents: A multi-agent AI system that detects, explains, and helps resolve anomalies by combining classical ML with the reasoning power of Large Language Models. Instead of a single model, a swarm of specialized agents collaborates in real-time, mimicking a human operations team.
 
-2. Operating System for AI: AI agents would be less about managing hardware and more about managing intelligence as a service—orchestrating autonomous digital workers that perceive, reason, act, and learn. Think of it as a meta-OS that abstracts away the complexity of agent lifecycles, memory, tools, and multi-agent coordination, much like a traditional OS abstracts the CPU, RAM, and disk.
+2. Adorno Brain
 
-3. Website and infrastructure design to facilitate the interaction of AI agents
+3. NLP x Poetry
 
-4. Adorno Brain
-
-5. NLP x Poetry
-
-6. Minimze text while keeping sematic integrity
+4. Minimze text while keeping sematic integrity
