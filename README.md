@@ -19,6 +19,9 @@
 various methods exist. In addition to pure video analysis, multimodal LLMs can also deliver good results in emotion recognition.
 
 [GoetheBrain](https://github.com/topoftheblock/goethe-brain) - A full-stack, retrieval-augmented conversational persona of Johann Wolfgang von Goethe — grounded in essentially everything relevant to him on Project Gutenberg
+
+[Anomaly Detection](https://github.com/topoftheblock/anomaly-detection) A full-stack implementation of the multi-agent document anomaly detection system
+
  ## Ideas for Projects
 1. NLP x Poetry
 
