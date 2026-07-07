@@ -26,3 +26,5 @@ various methods exist. In addition to pure video analysis, multimodal LLMs can a
 1. NLP x Poetry
 
 2. Minimze text while keeping sematic integrity
+
+3. Dataformat for ai agents
