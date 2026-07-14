@@ -27,3 +27,5 @@
 2. Minimze text while keeping sematic integrity
 
 3. Dataformat for ai agents
+
+4. Application of neurosymbolic ai
