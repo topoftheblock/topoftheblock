@@ -13,14 +13,14 @@
 
 [ETL Pipeline with NLP and Visualization](https://github.com/topoftheblock/ETL-Pipeline-with-NLP-Analysis) - A comprehensive platform for processing, analyzing, and visualizing parliamentary protocols from the German Bundestag with advanced NLP capabilities and multimedia processing.
 
-[Städel MCP](https://github.com/topoftheblock/staedel-mcp) - This server interfaces with the museum's OAI-PMH API using the LIDO (Lightweight Information Describing Objects) format, allowing AI assistants to harvest records, retrieve rich multilingual metadata, and access high-resolution
-
 [Video Emotion Recognition](https://github.com/topoftheblock/Video-Emotion-Recognition) - Emotion recognition in videos has been around for some time, and
 various methods exist. In addition to pure video analysis, multimodal LLMs can also deliver good results in emotion recognition.
 
-[GoetheBrain](https://github.com/topoftheblock/goethe-brain) - A full-stack, retrieval-augmented conversational persona of Johann Wolfgang von Goethe — grounded in essentially everything relevant to him on Project Gutenberg
+[Early Stage - Städel MCP](https://github.com/topoftheblock/staedel-mcp) - This server interfaces with the museum's OAI-PMH API using the LIDO (Lightweight Information Describing Objects) format, allowing AI assistants to harvest records, retrieve rich multilingual metadata, and access high-resolution
 
-[Anomaly Detection](https://github.com/topoftheblock/anomaly-detection) - Implementation of the multi-agent document anomaly detection system
+[Early Stage - GoetheBrain](https://github.com/topoftheblock/goethe-brain) - A full-stack, retrieval-augmented conversational persona of Johann Wolfgang von Goethe — grounded in essentially everything relevant to him on Project Gutenberg
+
+[Early Stage - Anomaly Detection](https://github.com/topoftheblock/anomaly-detection) - Implementation of the multi-agent document anomaly detection system
 
  ## Ideas for Projects
 1. NLP x Poetry
