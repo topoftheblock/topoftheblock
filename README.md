@@ -29,3 +29,5 @@
 3. Dataformat for ai agents
 
 4. Application of neurosymbolic ai
+
+5. automatic data normalization
