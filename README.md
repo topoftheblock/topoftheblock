@@ -31,3 +31,5 @@
 4. Application of neurosymbolic ai
 
 5. automatic data normalization
+
+6. empirical validation of philosophies
