@@ -33,3 +33,5 @@
 5. automatic data normalization
 
 6. empirical validation of philosophies
+
+7. control loops for SWE
