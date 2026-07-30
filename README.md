@@ -35,3 +35,5 @@
 6. empirical validation of philosophies
 
 7. control loops for SWE
+
+8. knowledge base for long term memory
