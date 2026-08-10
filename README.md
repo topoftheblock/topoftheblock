@@ -37,3 +37,5 @@
 7. control loops for SWE
 
 8. knowledge base for long term memory
+
+9. Fable Loophole law
