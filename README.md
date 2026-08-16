@@ -39,3 +39,5 @@
 8. knowledge base for long term memory
 
 9. Fable Loophole law
+
+10. jepa
