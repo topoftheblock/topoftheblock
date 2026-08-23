@@ -24,9 +24,7 @@
 [Early Stage - Anomaly Detection](https://github.com/topoftheblock/anomaly-detection) - Implementation of the multi-agent document anomaly detection system
 
  ## Ideas for Projects
-1. NLP x Poetry
-
-2. Minimze text while keeping sematic integrity
+1. Minimze text while keeping sematic integrity
 
 3. Dataformat for ai agents
 
