@@ -14,6 +14,7 @@
 [Finished - ETL Pipeline with NLP and Visualization](https://github.com/topoftheblock/ETL-Pipeline-with-NLP-Analysis) - A comprehensive platform for processing, analyzing, and visualizing parliamentary protocols from the German Bundestag with advanced NLP capabilities and multimedia processing.
 
 [Finished - Video Emotion Recognition](https://github.com/topoftheblock/Video-Emotion-Recognition) - Multimodal emotion and identity recognition over recorded video: a video is run through a DUUI pipeline that transcribes speech, diarizes speakers, and scores emotion from the text, audio, and video modalities independently, plus resolves who is on screen. 
+[Discontinued - Fine Tuning LLM For Financial Sentiment](https://github.com/topoftheblock/Fine-Tuning-LLM-For-Financial-Sentiment) - An end-to-end real-time data pipeline for ingesting financial social media text, analyzing its sentiment using a fine-tuned Large Language Model powered by Apple's MLX, and visualizing the results.
 
 [Early Stage - Städel MCP](https://github.com/topoftheblock/staedel-mcp) - This server interfaces with the museum's OAI-PMH API using the LIDO (Lightweight Information Describing Objects) format, allowing AI assistants to harvest records, retrieve rich multilingual metadata, and access high-resolution
 
