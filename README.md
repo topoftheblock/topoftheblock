@@ -33,3 +33,5 @@
 4. knowledge base for long term memory
 
 5. jepa
+
+6. citation worthy skill
