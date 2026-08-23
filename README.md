@@ -30,14 +30,8 @@
 
 4. Application of neurosymbolic ai
 
-5. automatic data normalization
-
-6. empirical validation of philosophies
-
 7. control loops for SWE
 
 8. knowledge base for long term memory
-
-9. Fable Loophole law
 
 10. jepa
