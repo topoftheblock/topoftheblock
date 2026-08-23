@@ -21,17 +21,15 @@
 
 [Early Stage - GoetheBrain](https://github.com/topoftheblock/goethe-brain) - A full-stack, retrieval-augmented conversational persona of Johann Wolfgang von Goethe — grounded in essentially everything relevant to him on Project Gutenberg
 
-[Early Stage - Anomaly Detection](https://github.com/topoftheblock/anomaly-detection) - Implementation of the multi-agent document anomaly detection system
+[Early Stage - Anomaly Detection](https://github.com/topoftheblock/anomaly-detection) - Implementation of the multi-agent document anomaly detection system using neurosymbolic ai
 
  ## Ideas for Projects
 1. Minimze text while keeping sematic integrity
 
-3. Dataformat for ai agents
+2. Dataformat for ai agents
 
-4. Application of neurosymbolic ai
+3. control loops for SWE
 
-7. control loops for SWE
+4. knowledge base for long term memory
 
-8. knowledge base for long term memory
-
-10. jepa
+5. jepa
