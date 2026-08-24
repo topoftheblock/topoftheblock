@@ -23,6 +23,8 @@
 
 [Early Stage - Anomaly Detection](https://github.com/topoftheblock/anomaly-detection) - Implementation of the multi-agent document anomaly detection system using neurosymbolic ai
 
+[Early Stage - Citation Worthy Skill](https://github.com/topoftheblock/citation-worthy-skill) - A source-validation skill for Claude Code. It makes the agent evaluate where a search result comes from before it fetches the page, refuse hyper-partisan sites, tabloids, SEO/AI content farms and scraped mirrors, prefer primary and institutional sources, recover with targeted re-queries when a search returns garbage
+
  ## Ideas for Projects
 1. Minimze text while keeping sematic integrity
 
