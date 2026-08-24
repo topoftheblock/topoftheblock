@@ -15,8 +15,6 @@
 
 [Finished - Video Emotion Recognition](https://github.com/topoftheblock/Video-Emotion-Recognition) - Multimodal emotion and identity recognition over recorded video: a video is run through a DUUI pipeline that transcribes speech, diarizes speakers, and scores emotion from the text, audio, and video modalities independently, plus resolves who is on screen. 
 
-[Discontinued - Fine Tuning LLM For Financial Sentiment](https://github.com/topoftheblock/Fine-Tuning-LLM-For-Financial-Sentiment) - An end-to-end real-time data pipeline for ingesting financial social media text, analyzing its sentiment using a fine-tuned Large Language Model powered by Apple's MLX, and visualizing the results.
-
 [Early Stage - Städel MCP](https://github.com/topoftheblock/staedel-mcp) - This server interfaces with the museum's OAI-PMH API using the LIDO (Lightweight Information Describing Objects) format, allowing AI assistants to harvest records, retrieve rich multilingual metadata, and access high-resolution
 
 [Early Stage - GoetheBrain](https://github.com/topoftheblock/goethe-brain) - A full-stack, retrieval-augmented conversational persona of Johann Wolfgang von Goethe — grounded in essentially everything relevant to him on Project Gutenberg
@@ -24,6 +22,8 @@
 [Early Stage - Anomaly Detection](https://github.com/topoftheblock/anomaly-detection) - Implementation of the multi-agent document anomaly detection system using neurosymbolic ai
 
 [Early Stage - Citation Worthy Skill](https://github.com/topoftheblock/citation-worthy-skill) - A source-validation skill for Claude Code. It makes the agent evaluate where a search result comes from before it fetches the page, refuse hyper-partisan sites, tabloids, SEO/AI content farms and scraped mirrors, prefer primary and institutional sources, recover with targeted re-queries when a search returns garbage
+
+[Discontinued - Fine Tuning LLM For Financial Sentiment](https://github.com/topoftheblock/Fine-Tuning-LLM-For-Financial-Sentiment) - An end-to-end real-time data pipeline for ingesting financial social media text, analyzing its sentiment using a fine-tuned Large Language Model powered by Apple's MLX, and visualizing the results.
 
  ## Ideas for Projects
 1. Minimze text while keeping sematic integrity
