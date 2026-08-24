@@ -21,7 +21,7 @@
 
 [Early Stage - Anomaly Detection](https://github.com/topoftheblock/anomaly-detection) - Implementation of the multi-agent document anomaly detection system using neurosymbolic ai
 
-[Early Stage - Citation Worthy Skill](https://github.com/topoftheblock/citation-worthy-skill) - A source-validation skill for Claude Code. It makes the agent evaluate where a search result comes from before it fetches the page, refuse hyper-partisan sites, tabloids, SEO/AI content farms and scraped mirrors, prefer primary and institutional sources, recover with targeted re-queries when a search returns garbage
+[Early Stage - Citation Worthy Skill](https://github.com/topoftheblock/citation-worthy-skill) - A source-validation skill for Claude Code: evaluate domains before fetching, refuse content farms and hyper-partisan sites, and halt rather than cite junk."
 
 [Discontinued - Fine Tuning LLM For Financial Sentiment](https://github.com/topoftheblock/Fine-Tuning-LLM-For-Financial-Sentiment) - An end-to-end real-time data pipeline for ingesting financial social media text, analyzing its sentiment using a fine-tuned Large Language Model powered by Apple's MLX, and visualizing the results.
 
