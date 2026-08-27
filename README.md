@@ -28,7 +28,7 @@
  ## Ideas for Projects
 1. Minimze text while keeping semantic integrity: dependency parsing + semantic role labeling + redundancy detection + controlled abstractive rewriting.
 
-2. Dataformat for ai agents
+2. Dataformat for ai agents: webmcp
 
 3. control loops for SWE
 
