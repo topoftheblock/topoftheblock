@@ -34,4 +34,4 @@
 
 4. knowledge base for long term memory
 
-5. jepa
+5. jepa: Instead of predicting missing patches of high-resolution images, you will build a miniature JEPA from scratch to predict the future state of a 1D time-series—like a noisy sine wave, daily temperatures, or simulated stock prices.
