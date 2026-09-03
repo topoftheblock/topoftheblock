@@ -26,12 +26,11 @@
 [Discontinued - Fine Tuning LLM For Financial Sentiment](https://github.com/topoftheblock/Fine-Tuning-LLM-For-Financial-Sentiment) - An end-to-end real-time data pipeline for ingesting financial social media text, analyzing its sentiment using a fine-tuned Large Language Model powered by Apple's MLX, and visualizing the results.
 
  ## Ideas for Projects
-1. Minimze text while keeping semantic integrity: dependency parsing + semantic role labeling + redundancy detection + controlled abstractive rewriting.
 
-2. Dataformat for ai agents: webmcp
+1. Dataformat for ai agents: webmcp
 
-3. control loops for SWE
+2. control loops for SWE
 
-4. knowledge base for long term memory
+3. knowledge base for long term memory
 
-5. jepa: Instead of predicting missing patches of high-resolution images, you will build a miniature JEPA from scratch to predict the future state of a 1D time-series—like a noisy sine wave, daily temperatures, or simulated stock prices.
+4. jepa: Instead of predicting missing patches of high-resolution images, one builds a miniature JEPA from scratch to predict the future state of a 1D time-series—like a noisy sine wave, daily temperatures, or simulated stock prices.
