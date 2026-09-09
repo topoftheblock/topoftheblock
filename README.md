@@ -15,6 +15,8 @@
 
 [Finished - Video Emotion Recognition](https://github.com/MaxFroese/duui-video-emotion-recognition/tree/main) - Multimodal emotion and identity recognition over recorded video: a video is run through a DUUI pipeline that transcribes speech, diarizes speakers, and scores emotion from the text, audio, and video modalities independently, plus resolves who is on screen. 
 
+[Finished - Sensitvity of the Autoresearch Loop](https://github.com/topoftheblock/autoresearch) - Studied how the different components of the program.md file influence the search as well as output behavior of Karpathy's autoresearch loop
+
 [Early Stage - Städel MCP](https://github.com/topoftheblock/staedel-mcp) - This server interfaces with the museum's OAI-PMH API using the LIDO (Lightweight Information Describing Objects) format, allowing AI assistants to harvest records, retrieve rich multilingual metadata, and access high-resolution
 
 [Early Stage - GoetheBrain](https://github.com/topoftheblock/goethe-brain) - A full-stack, retrieval-augmented conversational persona of Johann Wolfgang von Goethe — grounded in essentially everything relevant to him on Project Gutenberg
