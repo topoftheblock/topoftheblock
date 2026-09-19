@@ -31,7 +31,7 @@
 
 1. Dataformat for ai agents: webmcp
 
-2. control loops for SWE
+2. control loops for SWE (rsi)
 
 3. knowledge base for long term memory
 
