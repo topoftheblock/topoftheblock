@@ -38,3 +38,5 @@
 4. jepa: Instead of predicting missing patches of high-resolution images, one builds a miniature JEPA from scratch to predict the future state of a 1D time-series—like a noisy sine wave, daily temperatures, or simulated stock prices.
 
 5.  Autoresearch benefits across domains
+
+6.  ai clone
