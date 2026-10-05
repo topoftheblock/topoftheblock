@@ -44,3 +44,5 @@
 6.  ai clone
 
 7.  agentic memory
+
+8.  migration agent from c to rust
