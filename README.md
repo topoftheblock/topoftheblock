@@ -15,7 +15,7 @@
 
 [Finished - Video Emotion Recognition](https://github.com/MaxFroese/duui-video-emotion-recognition/tree/main) - Multimodal emotion and identity recognition over recorded video: a video is run through a DUUI pipeline that transcribes speech, diarizes speakers, and scores emotion from the text, audio, and video modalities independently, plus resolves who is on screen. 
 
-[Finished - RAG Experiment](https://github.com/topoftheblock/these-new) - studying whether rewording a RAG system's prompt, without changing what it asks for, changes the system's behaviour. Twelve wordings of three published prompts on MS MARCO, with retrieval and model held fixed, shift instruction adherence and answer length but not faithfulness or relevance.
+[Finished - RAG Robustness Experiment](https://github.com/topoftheblock/these-new) - studying whether rewording a RAG system's prompt, without changing what it asks for, changes the system's behaviour. Twelve wordings of three published prompts on MS MARCO, with retrieval and model held fixed, shift instruction adherence and answer length but not faithfulness or relevance.
 
 [Finished - Sensitvity of the Autoresearch Loop](https://github.com/topoftheblock/autoresearch) - Studied how the different components of the program.md file influence the search as well as output behavior of Karpathy's autoresearch loop
 
