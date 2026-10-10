@@ -28,6 +28,8 @@
 
 [Early Stage - Anomaly Detection](https://github.com/topoftheblock/anomaly-detection) - Implementation of the multi-agent document anomaly detection system using neurosymbolic ai
 
+[Early Stage -  Migration Agent from C to Rust](https://github.com/topoftheblock/migration-workflow) - 
+
 [Discontinued - Fine Tuning LLM For Financial Sentiment](https://github.com/topoftheblock/Fine-Tuning-LLM-For-Financial-Sentiment) - An end-to-end real-time data pipeline for ingesting financial social media text, analyzing its sentiment using a fine-tuned Large Language Model powered by Apple's MLX, and visualizing the results.
 
  ## Ideas for Projects
@@ -46,4 +48,3 @@
 
 7.  agentic memory
 
-8.  migration agent from c to rust
