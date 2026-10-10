@@ -21,11 +21,12 @@
 
 [Finished - Städel MCP](https://github.com/topoftheblock/staedel-mcp) - This server interfaces with the museum's OAI-PMH API using the LIDO (Lightweight Information Describing Objects) format, allowing AI assistants to harvest records, retrieve rich multilingual metadata, and access high-resolution
 
+
+[Finished - Citation Worthy Sources Claude Skill](https://github.com/topoftheblock/citation-worthy-skill) - A source-validation skill for Claude Code: evaluate domains before fetching, refuse content farms and hyper-partisan sites, and halt rather than cite junk.
+
 [Early Stage - GoetheBrain](https://github.com/topoftheblock/goethe-brain) - A full-stack, retrieval-augmented conversational persona of Johann Wolfgang von Goethe — grounded in essentially everything relevant to him on Project Gutenberg
 
 [Early Stage - Anomaly Detection](https://github.com/topoftheblock/anomaly-detection) - Implementation of the multi-agent document anomaly detection system using neurosymbolic ai
-
-[Early Stage - Citation Worthy Sources Claude Skill](https://github.com/topoftheblock/citation-worthy-skill) - A source-validation skill for Claude Code: evaluate domains before fetching, refuse content farms and hyper-partisan sites, and halt rather than cite junk.
 
 [Discontinued - Fine Tuning LLM For Financial Sentiment](https://github.com/topoftheblock/Fine-Tuning-LLM-For-Financial-Sentiment) - An end-to-end real-time data pipeline for ingesting financial social media text, analyzing its sentiment using a fine-tuned Large Language Model powered by Apple's MLX, and visualizing the results.
 
