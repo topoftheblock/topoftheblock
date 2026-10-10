@@ -38,13 +38,9 @@
 
 2. control loops for SWE (rsi)
 
-3. knowledge base for long term memory
+3.  Autoresearch benefits across domains
 
-4. jepa: Instead of predicting missing patches of high-resolution images, one builds a miniature JEPA from scratch to predict the future state of a 1D time-series—like a noisy sine wave, daily temperatures, or simulated stock prices.
+4.  ai clone
 
-5.  Autoresearch benefits across domains
-
-6.  ai clone
-
-7.  agentic memory
+5.  agentic memory
 
