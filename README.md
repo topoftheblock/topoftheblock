@@ -17,7 +17,7 @@
 
 [Finished - RAG Robustness Experiment](https://github.com/topoftheblock/these-new) - studying whether rewording a RAG system's prompt, without changing what it asks for, changes the system's behaviour. Twelve wordings of three published prompts on MS MARCO, with retrieval and model held fixed, shift instruction adherence and answer length but not faithfulness or relevance.
 
-[Finished - Sensitvity of the Autoresearch Loop](https://github.com/topoftheblock/autoresearch) - Studied how the different components of the program.md file influence the search as well as output behavior of Karpathy's autoresearch loop
+[Finished - Sensitivity of the Autoresearch Loop](https://github.com/topoftheblock/autoresearch) - Studied how the different components of the program.md file influence the search as well as output behavior of Karpathy's autoresearch loop
 
 [Finished - Städel MCP](https://github.com/topoftheblock/staedel-mcp) - This server interfaces with the museum's OAI-PMH API using the LIDO (Lightweight Information Describing Objects) format, allowing AI assistants to harvest records, retrieve rich multilingual metadata, and access high-resolution
 
