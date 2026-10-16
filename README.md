@@ -34,11 +34,9 @@
 
  ## Ideas for Projects
 
-1. Dataformat for ai agents: webmcp
+1. control loops for SWE (rsi)
 
-2. control loops for SWE (rsi)
+2.  Autoresearch benefits across domains
 
-3.  Autoresearch benefits across domains
-
-4.  agentic memory
+3.  agentic memory
 
