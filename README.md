@@ -24,7 +24,7 @@
 
 [Finished - Citation Worthy Sources Claude Skill](https://github.com/topoftheblock/citation-worthy-skill) - A source-validation skill for Claude Code: evaluate domains before fetching, refuse content farms and hyper-partisan sites, and halt rather than cite junk.
 
-[Early Stage - GoetheBrain](https://github.com/topoftheblock/goethe-brain) - A full-stack, retrieval-augmented conversational persona (AI clone) of Johann Wolfgang von Goethe — grounded in essentially everything relevant to him on Project Gutenberg
+[Early Stage - GoetheBrain](https://github.com/topoftheblock/goethe-brain) - A full-stack, retrieval-augmented conversational persona (AI clone) of Johann Wolfgang von Goethe — grounded in essentially everything relevant to him on Project Gutenberg (agentic memory)
 
 [Early Stage - Anomaly Detection](https://github.com/topoftheblock/anomaly-detection) - Implementation of the multi-agent document anomaly detection system using neurosymbolic ai
 
@@ -36,5 +36,4 @@
 
 1. control loops for SWE (rsi)
 
-2.  agentic memory
 
