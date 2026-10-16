@@ -36,7 +36,5 @@
 
 1. control loops for SWE (rsi)
 
-2.  Autoresearch benefits across domains
-
-3.  agentic memory
+2.  agentic memory
 
