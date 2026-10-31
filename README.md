@@ -38,4 +38,6 @@
 
 2. simili replication
 
+3. data generating process mario kart
+
 
