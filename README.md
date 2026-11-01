@@ -44,4 +44,6 @@
 
 5. data gnerating process Mario kart/Wii bowling
 
+6. corridor learning algo
+
 
