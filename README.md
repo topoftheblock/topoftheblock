@@ -26,7 +26,7 @@
 
 [Early Stage - GoetheBrain](https://github.com/topoftheblock/goethe-brain) - A full-stack, retrieval-augmented conversational persona (AI clone) of Johann Wolfgang von Goethe — grounded in essentially everything relevant to him on Project Gutenberg (agentic memory)
 
-[Early Stage - Anomaly Detection](https://github.com/topoftheblock/anomaly-detection) - Implementation of the multi-agent document anomaly detection system using neurosymbolic ai
+[Early Stage - Anomaly Detection](https://github.com/topoftheblock/anomaly-detection) - Implementation of the multi-agent document anomaly detection system for finding inconsistencies using neurosymbolic ai
 
 [Early Stage -  Migration Agent from C to Rust](https://github.com/topoftheblock/migration-workflow) - 
 
