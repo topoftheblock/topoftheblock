@@ -38,12 +38,10 @@
 
 2. simili replication
 
-3. data generating process mario kart
+3. webmcp
 
-4. webmcp
+4. data gnerating process Mario kart/Wii bowling
 
-5. data gnerating process Mario kart/Wii bowling
-
-6. corridor learning algo
+5. corridor learning algo
 
 
