@@ -44,6 +44,6 @@
 
 4. data gnerating process Mario kart/Wii bowling
 
-5. golf app
+5. golf app to track progress and get advice on which parts of the game to focus
 
 
