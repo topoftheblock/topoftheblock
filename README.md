@@ -28,7 +28,7 @@
 
 [Early Stage - Anomaly Detection](https://github.com/topoftheblock/anomaly-detection) - Implementation of the multi-agent document anomaly detection system for finding inconsistencies using neurosymbolic ai
 
-[Early Stage -  Migration Agent from C to Rust](https://github.com/topoftheblock/migration-workflow) - 
+[Early Stage -  Migration Agent from C to Rust](https://github.com/topoftheblock/migration-workflow) - A repository set up for migrating an existing C application to Rust one small unit at a time, with an AI coding agent (Claude Code) doing the work under fixed rules.
 
 [Early Stage -  Quarto with RL ](https://github.com/topoftheblock/quarto) - Quarto in the browser against an AI that taught itself the game through self-play, the way DeepMind's AlphaZero learned Go
 
