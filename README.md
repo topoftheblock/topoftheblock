@@ -44,6 +44,5 @@
 
 3. data gnerating process Mario kart/Wii bowling
 
-4. ai alignment /mechanism design
 
 
