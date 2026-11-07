@@ -30,7 +30,7 @@
 
 [Early Stage -  Migration Agent from C to Rust](https://github.com/topoftheblock/migration-workflow) - 
 
-[Early Stage -  Quarto with RL ](https://github.com/topoftheblock/quarto) -
+[Early Stage -  Quarto with RL ](https://github.com/topoftheblock/quarto) - Quarto in the browser against an AI that taught itself the game through self-play, the way DeepMind's AlphaZero learned Go
 
 [Discontinued - Fine Tuning LLM For Financial Sentiment](https://github.com/topoftheblock/Fine-Tuning-LLM-For-Financial-Sentiment) - An end-to-end real-time data pipeline for ingesting financial social media text, analyzing its sentiment using a fine-tuned Large Language Model powered by Apple's MLX, and visualizing the results.
 
