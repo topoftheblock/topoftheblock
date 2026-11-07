@@ -40,10 +40,8 @@
 
 2. simili replication
 
-3. webmcp
+3. data gnerating process Mario kart/Wii bowling
 
-4. data gnerating process Mario kart/Wii bowling
-
-5. ai alignment /mechanism design
+4. ai alignment /mechanism design
 
 
