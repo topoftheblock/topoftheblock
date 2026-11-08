@@ -38,11 +38,11 @@
 
  ## Ideas for Projects
 
-1. control loops for SWE (rsi)
+1. control loops for SWE (RSI)
 
 2. simili replication
 
-3. data gnerating process Mario kart/Wii bowling
+3. data generating process Wii bowling
 
 
 
