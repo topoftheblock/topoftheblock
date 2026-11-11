@@ -36,14 +36,6 @@
 
 [Discontinued - Fine Tuning LLM For Financial Sentiment](https://github.com/topoftheblock/Fine-Tuning-LLM-For-Financial-Sentiment) - An end-to-end real-time data pipeline for ingesting financial social media text, analyzing its sentiment using a fine-tuned Large Language Model powered by Apple's MLX, and visualizing the results.
 
- ## Ideas for Projects
 
-1. control loops for SWE (RSI)
-
-2. simili replication
-
-3. data generating process Wii bowling
-
-4. Weight Space Programming
 
 
