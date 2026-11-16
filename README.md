@@ -38,7 +38,7 @@
 
 control loops for ai agents
 
-physical ai
+physical ai with Jetson
 
 synthetic time series
 
